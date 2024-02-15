@@ -1,0 +1,1 @@
+Designed and implemented FIR and IIR notch filters using C and MATLAB to filter out noise at a particular frequency of an audio sample. Tested and compared the performance of the two filters based on their frequency response.
